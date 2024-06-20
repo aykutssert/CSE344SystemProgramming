@@ -10,7 +10,7 @@ Developing low-level software that interacts with hardware, operating systems, a
 
 <p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Homework1">- Homework 1</a></p>
 <p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Homework2">- Homework 2</a></p>
-<p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Midterm">- Midterm Project</a></p>
+<p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/MidtermProject">- Midterm Project</a></p>
 <p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Homework3">- Homework 3</a></p>
 <p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Homework4">- Homework 4</a></p>
 <p style="display: inline-block; margin-right: 20px;"><a href="https://github.com/aykutssert/CSE344SystemProgramming/tree/main/Homework5">- Homework 5</a></p>
