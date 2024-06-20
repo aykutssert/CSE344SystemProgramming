@@ -1,0 +1,15 @@
+Aykut Sert,AA
+Burak Efe Deniz,CB
+Kerem Sert,BA
+Feridun Taha Açıkyürek,DC
+Ahmet Yılmaz Can Kurt,DC
+Ilkay Bolat,DC
+Emirhan Yılmaz,DC
+Cemil Sert,DC
+Kaan Sert,DC
+Engin Sert,DC
+Ismail Deniz,DC
+Mehmet Yılmaz,CB
+Mehmet Yılmaz,CB
+Ebu Sönmez,BA
+Cevdet Yılmaz,CC
